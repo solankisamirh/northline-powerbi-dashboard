@@ -47,6 +47,8 @@ A Power BI dashboard that analyzes website traffic, quote requests and an A/B te
 | `Northline_Website_Dashboard.pdf` | PDF export of the report |
 | `Northline_Website_Dashboard.png` | Full-size image of the report |
 | `Northline_Website_Sample_Data.xlsx` | Sample data used in the report |
+| `Northline_Sessions.csv` | Sessions table as CSV (7,476 rows) |
+| `Northline_FunnelSteps.csv` | FunnelSteps table as CSV |
 
 ## Tools
 Power BI Desktop, Power Query, DAX, Excel
